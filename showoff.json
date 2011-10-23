@@ -1,0 +1,8 @@
+{ 
+  "name": "Creating Web Apps in Ruby", 
+  "sections": [ 
+    { "section":"intro" },
+    { "section":"rails" },
+    { "section":"gems" } 
+  ]
+}
