@@ -3,6 +3,7 @@
   "sections": [ 
     { "section":"intro" },
     { "section":"rails" },
+    { "section":"tools" },
     { "section":"gems" } 
   ]
 }
