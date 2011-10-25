@@ -49,6 +49,17 @@
 !SLIDE
 # Git
 
-!SLIDE
+!SLIDE bullets incremental
 # GitHub
 
+* open source
+* made AWESOME
+
+!SLIDE center
+![Fork Button](fork.jpg)
+
+!SLIDE center
+![Pull Request](pull_request.png)
+
+!SLIDE center
+![Pull Request](pull_request_2.png)
