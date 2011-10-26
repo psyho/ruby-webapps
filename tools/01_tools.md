@@ -1,3 +1,6 @@
+!SLIDE
+# Tools
+
 !SLIDE bullets
 # RVM
 

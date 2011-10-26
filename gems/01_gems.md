@@ -1,3 +1,6 @@
+!SLIDE
+# Gems
+
 !SLIDE bullets
 # Capistrano
 
@@ -34,6 +37,32 @@
 * [opscode.com/chef][chef]
 
 [chef]: http://www.opscode.com/chef
+
+!SLIDE bullets
+# Heroku
+
+* [heroku.com][heroku]
+
+[heroku]: http://heroku.com
+
+!SLIDE commandline incremental
+# Heroku
+
+    $ rails myapp
+    $ cd myapp
+    $ git init
+    $ git add .
+    $ git commit -m "my new app"
+    $ heroku create
+    $ git push heroku master
+
+!SLIDE commandline incremental
+# Heroku
+
+    $ heroku rake my_complex_data_migration
+    $ heroku addons:add redistogo:nano
+    $ heroku console
+    $ ...
 
 !SLIDE bullets
 # Devise + OmniAuth
